@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spring10:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring10_jar</output-path>
+    <root id="archive" name="spring10.jar">
+      <element id="module-output" name="spring10" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/spring-form.tld" />
+        <element id="directory" name="tags">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/tags/fuck.tag" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
